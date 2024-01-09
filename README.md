@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋 im dongseon</h1>
   <p>I'm studying backend development</p>
-  <p>My main skills are NodeJs</p>
+  <p>My main skills are NodeJs, Typescript</p>
 
 
   #
