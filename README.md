@@ -6,10 +6,18 @@
 
   #
   <h3>💻 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
   <p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;
+  </p>
+    <p>
+      <img src="https://img.shields.io/badge/Express-ffffff?style=flat&logo=express&logoColor=black">
+      <img src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=red" />
+  </p>
+    <p>
+      <img src="https://img.shields.io/badge/postgresql-0080FF?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/prisma-ffffff?style=flat&logo=Prisma&logoColor=black"/>
   </p>
   
   #  
