@@ -17,6 +17,7 @@
   </p>
     <p>
       <img src="https://img.shields.io/badge/postgresql-0080FF?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/redis-000000?style=flat&logo=redis&logoColor=red" />
       <img src="https://img.shields.io/badge/prisma-ffffff?style=flat&logo=Prisma&logoColor=black"/>
   </p>
   
