@@ -14,4 +14,5 @@ TypeScript · Node.js · PostgreSQL · React · Go
 
 ### 📫 Connect
 - Email: inko513666@gmail.com
+- Email: yds@cartanova.ai
 ---
