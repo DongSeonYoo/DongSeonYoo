@@ -5,8 +5,7 @@ I enjoy understanding *why* things work, not just *how* to use them.
 
 ---
 ### 🔧 Tech Stack
-TypeScript · Node.js · PostgreSQL · React · Go ·
-pgvector & embedding for semantic search
+TypeScript · Node.js · Retrieval Augmented Generation (RAG) · PostgreSQL & pgvector· React · Go
 
 ---
 ### 🌱 Currently Exploring
